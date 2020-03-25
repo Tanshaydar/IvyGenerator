@@ -1,5 +1,5 @@
 # IvyGenerator
-An Ivy Generator for Unity5.x
+An Ivy Generator for Unity 2019.3 [current 2019.3.6f1] w/ HDRP [current HDRP 7.3.1]
 
 How To Use
 -------
@@ -23,7 +23,7 @@ Please triangulate your obj model before loading it, and keep your planted objec
 
 You can find other Win32, MacOS, and Linux version including the source code [here](http://http://graphics.uni-konstanz.de/~luft/ivy_generator/).
 
-Requires Unity5.x  or higher.
+Requires Unity 2019.3.6f1  or higher & HDRP 7.3.1 or higher
 
 Developed By
 -------

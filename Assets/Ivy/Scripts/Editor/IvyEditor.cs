@@ -35,7 +35,7 @@ namespace Ivy
         public void OnSceneGUI()
         {
             //with creation mode enabled, place new root on keypress
-            if (Event.current.type != EventType.keyDown) 
+            if (Event.current.type != EventType.KeyDown) 
                 return;
             
             if (Event.current.keyCode == KeyCode.P)
